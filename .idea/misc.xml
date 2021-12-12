@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sabrine/Desktop/domotique/MyApplication/app/src/main/res/layout/activity_camera.xml" value="0.1574074074074074" />
+        <entry key="..\:/Users/sabrine/Desktop/domotique/MyApplication/app/src/main/res/layout/activity_dash_board.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sabrine/Desktop/domotique/MyApplication/app/src/main/res/layout/activity_detail_letter.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sabrine/Desktop/domotique/MyApplication/app/src/main/res/layout/activity_letter.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sabrine/Desktop/domotique/MyApplication/app/src/main/res/layout/activity_lights.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sabrine/Desktop/domotique/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sabrine/Desktop/domotique/MyApplication/app/src/main/res/layout/activity_maison.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sabrine/Desktop/domotique/MyApplication/app/src/main/res/layout/activity_params.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sabrine/Desktop/domotique/MyApplication/app/src/main/res/layout/activity_rooms.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sabrine/Desktop/domotique/MyApplication/app/src/main/res/layout/activity_shutters.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sabrine/Desktop/domotique/MyApplication/app/src/main/res/layout/activity_thermiques.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sabrine/Desktop/domotique/MyApplication/app/src/main/res/menu/camera.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sabrine/Desktop/domotique/MyApplication/app/src/main/res/menu/dash_board.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sabrine/Desktop/domotique/MyApplication/app/src/main/res/menu/detail_letter.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sabrine/Desktop/domotique/MyApplication/app/src/main/res/menu/letter.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sabrine/Desktop/domotique/MyApplication/app/src/main/res/menu/ligh.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sabrine/Desktop/domotique/MyApplication/app/src/main/res/menu/lights.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sabrine/Desktop/domotique/MyApplication/app/src/main/res/menu/maison.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sabrine/Desktop/domotique/MyApplication/app/src/main/res/menu/params.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sabrine/Desktop/domotique/MyApplication/app/src/main/res/menu/rooms.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sabrine/Desktop/domotique/MyApplication/app/src/main/res/menu/shutter.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sabrine/Desktop/domotique/MyApplication/app/src/main/res/menu/shutters.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sabrine/Desktop/domotique/MyApplication/app/src/main/res/menu/thermiques.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
